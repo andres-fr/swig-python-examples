@@ -1,7 +1,7 @@
 Basic examples to illustrate the extension of Python2/3 with C/C++ code using SWIG and gcc/g++, tested in Ubuntu.
 
 
-The syntax for SWIG interface files is well explained [here](The syntax for SWIG interface files is well explained [here]/https://www.ibm.com/developerworks/aix/library/au-swig/index.html).
+The syntax for SWIG interface files is well explained [here](https://www.ibm.com/developerworks/aix/library/au-swig/index.html).
 
 
 
